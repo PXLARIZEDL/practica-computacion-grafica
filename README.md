@@ -6,7 +6,7 @@
 | | |
 |---|---|
 | **Nombre** | Ricardo Pimentel |
-| **Matrícula** | _[COMPLETAR]_ |
+| **Matrícula** | 2023-3776 |
 | **Profesor** | Ing. Richard A. Jiménez Rijo |
 
 Cuatro casos de dominios profesionales distintos, resueltos en C con OpenGL/GLUT
